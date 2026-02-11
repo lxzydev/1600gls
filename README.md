@@ -1,11 +1,9 @@
-A car mod for **My Winter Car** that modifies the stock Sorbet 1600 with a custom GLS trim.
+A car mod for My Winter Car that modifies the stock Sorbet 1600 with a custom GLS trim.
 
 Original mod by Dom FULL credit to Dom. This version was decompiled and fixed by lxzy after the original was removed from Nexus.
-This mod was originally hosted on Nexus and has since been taken down. This is a preservation release with full credit to the original author. If Dom wants this taken down, reach out and it will be removed.
+This mod was originally hosted on Nexus and has since been taken down. If Dom wants this taken down, reach out and it will be removed.
 
 ---
-
-## Features
 
 ### Exterior
 - Multiple exterior mesh replacements
